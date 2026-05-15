@@ -14,6 +14,9 @@ Some levels, especially the larger 14-vial levels, may take a very long time to 
 
 ## Screenshots
 <img width="1918" height="1017" alt="1" src="https://github.com/user-attachments/assets/98a9f2f4-72de-4776-89c8-8e55d71bc4c6" />
+
 <img width="1918" height="1012" alt="2" src="https://github.com/user-attachments/assets/fa80224c-de57-48c5-9acd-6736b1949601" />
+
 <img width="1917" height="1016" alt="3" src="https://github.com/user-attachments/assets/91d00b5f-8767-42af-95ce-63c169948883" />
+
 <img width="1918" height="1015" alt="4" src="https://github.com/user-attachments/assets/4458e76c-b6f7-486b-9c02-f6d0ef544cbf" />
